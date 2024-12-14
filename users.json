@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "username": "gustavwilliam",
     "permissions": ["manage_links"]
   }
